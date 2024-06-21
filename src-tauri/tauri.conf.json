@@ -77,7 +77,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "NextChat App",
+      "shortDescription": "FreeWbot2(fei) App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -105,7 +105,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "FreeWbot2(fei)",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"

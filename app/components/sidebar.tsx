@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          NextChat
+          FreeWbot2(fei)
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          免费的Wbot-2官方使用站
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
